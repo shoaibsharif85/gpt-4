@@ -2,7 +2,7 @@ import React from 'react'
 
 const Gpt = () => {
   return (
-    <div className=' bg-gradient-to-t rounded  mt-20 from-[#3c508f]   to-blue-900 max-w-[1100px] md:h-[100vh] mx-5 md:m-auto'>
+    <div className=' bg-gradient-to-t rounded  mt-20 from-[#121f47]   to-blue-600 max-w-[1100px] md:h-[100vh] mx-5 md:m-auto'>
 
     <h1 className='text-white m-10 pt-5 font-semibold  mt-10 mx-10 my-10 text-3xl'>What is GPT-3</h1>
     <p className='md:ml-40 ml-10 mx-10 text-[#ffffff]'>We so opinion friends me message as delight. Whole front do 

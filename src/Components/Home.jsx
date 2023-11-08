@@ -23,7 +23,7 @@ OpenAI</h1>
 
  </div>
  <div className='flex '>
- <img src={people} alt="" className='ml-10 mx-5 md:mt-[-2px] mt-7'/>
+ <img src={people} alt="" className='ml-10 h-10 mx-5 md:mt-[-2px] mt-7'/>
  <p className='text-[12px] mx-10  md:mx-3 md:mt-2 text-white mt-7' >1,600 people requested access a visit in last 24 hours</p>
  </div>
 </div>

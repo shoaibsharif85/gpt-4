@@ -2,11 +2,11 @@ import React from 'react'
 
 const Footeer = () => {
   return (
-    <div className='bg-[#050518] h-[100vh] w-full'>
+    <div className='bg-[#050518] h-[50vh] md:h-[100vh] w-full'>
         
         <h1 className='md:text-center md:ml-80 mt-20 mx-10  bg-gradient-to-r from-blue-600 via-pink-500 to-yellow-400 inline-block text-transparent bg-clip-text md:text-5xl text-3xl font-bold '>Do you want to step in to the <br /> future before others</h1>
         <div className='md:justify-center md:ml-[600px] mt-10'>
-        <button className='border mx-20 text-white h-[50px] w-[200px] border-white border-[2px] justify-center'>Request Early Access</button>
+        <button className='border mx-20 md:mx-0 text-white h-[50px] w-[200px] border-white border-[2px] justify-center'>Request Early Access</button>
         
         </div>
         <div className='md:ml-[150px] mx-10 mt-10 md:mt-36'>
